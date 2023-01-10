@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **Data structures, Computer Networking**
 
-- 🤝 I’m looking for help with **an Internship offer to develop my skill**
+- 🤝 I’m looking for help with **an Internship offer to develop my skills**
 
 - 📫 How to reach me **beesettim27@gmail.com**
 
