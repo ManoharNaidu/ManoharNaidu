@@ -1,6 +1,6 @@
 [![MasterHead](https://img.freepik.com/free-vector/back-end-developer-typographic-header-software-development-process-website-interface-design-improvement-programming-coding-it-profession-isolated-flat-vector-illustration_613284-521.jpg?t=st=1709889329~exp=1709892929~hmac=b5e5ccac8ac9514089e2cf74f916eb89b99421aa7494f8b4a4044f360d2ee543&w=1380)](https://www.freepik.com/)
 
-[![Pullpo - DevCard](https://devcard.pullpo.io/api?user_id=cogdke062oas738vqpkg&team_id=cogdssg62oas738vrad0&custom_title=ManoharNaidu%20%40%20NERIST&custom_subtitle=Backend%20Developer&show_icons=true&disable_animations=false&title_color=000000&text_color=ffffff&icon_color=000000&ring_color=e53ed7&bg_color=0,bf78bb,1b296f&image_url=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F33485134%3Fv%3D4)](https://pullpo.io/products/devcard)
+[![Pullpo - DevCard](https://devcard.pullpo.io/api?user_id=cogdke062oas738vqpkg&team_id=cogdssg62oas738vrad0&custom_title=ManoharNaidu%20%40%20NERIST&custom_subtitle=Backend%20Developer&show_icons=true&disable_animations=false&title_color=000000&text_color=ffffff&icon_color=000000&ring_color=e53ed7&bg_color=0,a66e94,1b296f&image_url=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F33485134%3Fv%3D4)](https://pullpo.io/products/devcard)
 
 <h1 align="center">Hi 👋, I'm Manohar Naidu</h1>
 <h3 align="center">A Backend Web Developer and AI/ML/DL passionate.</h3>
@@ -12,7 +12,7 @@
 
 - 🔭 I’m currently working on **Navigation and Obstacle Detection for Visually Impaired**
 
-- 💬 Ask me about **Python, Nodejs, and Backend Development**
+- 💬 Ask me about **Backend Development and Python**
 
 - 📫 How to reach me **beesettim27@gmail.com**
 
